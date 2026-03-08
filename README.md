@@ -1,1 +1,2 @@
-# ![Resume Link](https://mohamedsayed0573.github.io/resume.pdf)
+# 📄 Resume
+[Open Resume](https://mohamedsayed0573.github.io/resume.pdf)
